@@ -1,0 +1,15 @@
+# Create name check code
+input_test = input("What are the names of people you've met in the past 24 hours")
+# [ ] get input for input_test variable
+print("John" in input_test)
+# [ ] print "True" message if "John" is in the input or False message if not
+print("Cj" in input_test)
+print("Dominic" in input_test)
+print("Sarah" in input_test)
+# [ ] print True message if your name is in the input or False if not
+
+
+# [ ] Challenge: Check if another person's name is in the input - print message
+
+
+# [ ] Challenge: Check if a fourth person's name is in the input - print message
